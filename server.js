@@ -5,7 +5,7 @@ const http = require('http');
 const PORT = process.env.PORT || 8080;
 
 // CHANGE THIS to a strong secret — must match ESP32 and controller
-const SECRET_TOKEN = "my_very_secret_token_12345";
+const SECRET_TOKEN = "bsueiduakx29173jagd45";
 
 let carConnection = null;
 let controllerConnection = null;
